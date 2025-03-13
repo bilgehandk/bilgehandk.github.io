@@ -49239,7 +49239,7 @@ $1(a){return B.KB},
 $S:467}
 A.yp.prototype={
 Y(a){var s=null,r="assets/images/github.png",q="assets/images/linkedin.png",p="assets/images/medium_icon.png",o="assets/images/bilgehan.png",n=A.bL(a,s,t.w).w,m=A.aaH(s,B.a1o,s),l=t.p
-return A.atT(m,A.cG(s,A.jU(A.Ad(n.a.a>600?A.fb(A.b([A.nI(new A.bJ(B.iH,A.ff(A.b([B.Er,B.aq,B.Ev,B.aq,B.Ex,B.aq,B.Eu,B.aq,B.Eq,B.aq,B.Ew,B.aq,B.Eo,B.aq,B.Ep,B.aq,B.Et,B.aq,B.Es,B.aq,A.fb(A.b([A.fk(s,A.nV(r,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiI(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(q,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiJ(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(p,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiK(),s,s,s,s,s,s,!1,B.aJ)],l),B.R,s,B.bR,B.T),B.fc],l),B.c7,s,B.bR,B.T),s)),A.nI(new A.bJ(B.qB,A.nV(o,s,800,800),s))],l),B.R,s,B.bR,B.T):A.ff(A.b([new A.bJ(B.qB,A.nV(o,s,300,300),s),new A.bJ(B.iH,A.ff(A.b([B.Er,B.aq,B.Ev,B.aq,B.Ex,B.aq,B.Eu,B.aq,B.Eq,B.aq,B.Ew,B.aq,B.Eo,B.aq,B.Ep,B.aq,B.Et,B.aq,B.Es,B.aq,A.fb(A.b([A.fk(s,A.nV(r,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiL(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(q,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiM(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(p,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(),s,s,s,s,s,s,!1,B.aJ)],l),B.R,s,B.bR,B.T),B.fc],l),B.c7,s,B.bR,B.T),s)],l),B.R,s,B.bR,B.T),s),s,s),B.o,s,s,B.Gc,s,s,s,s,s))}}
+return A.atT(m,A.cG(s,A.jU(A.Ad(n.a.a>600?A.fb(A.b([A.nI(new A.bJ(B.iH,A.ff(A.b([B.Er,B.aq,B.Ev,B.aq,B.Ey,B.aq,B.Eu,B.aq,B.Eq,B.aq,B.Ex,B.aq,B.Eo,B.aq,B.Ep,B.aq,B.Et,B.aq,B.Es,B.aq,A.fb(A.b([A.fk(s,A.nV(r,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiI(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(q,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiJ(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(p,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiK(),s,s,s,s,s,s,!1,B.aJ)],l),B.R,s,B.bR,B.T),B.fc],l),B.c7,s,B.bR,B.T),s)),A.nI(new A.bJ(B.qB,A.nV(o,s,800,800),s))],l),B.R,s,B.bR,B.T):A.ff(A.b([new A.bJ(B.qB,A.nV(o,s,300,300),s),new A.bJ(B.iH,A.ff(A.b([B.Er,B.aq,B.Ev,B.aq,B.Ey,B.aq,B.Eu,B.aq,B.Eq,B.aq,B.Ex,B.aq,B.Eo,B.aq,B.Ep,B.aq,B.Et,B.aq,B.Es,B.aq,A.fb(A.b([A.fk(s,A.nV(r,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiL(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(q,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiM(),s,s,s,s,s,s,!1,B.aJ),B.kh,A.fk(s,A.nV(p,s,50,50),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(),s,s,s,s,s,s,!1,B.aJ)],l),B.R,s,B.bR,B.T),B.fc],l),B.c7,s,B.bR,B.T),s)],l),B.R,s,B.bR,B.T),s),s,s),B.o,s,s,B.Gc,s,s,s,s,s))}}
 A.aiI.prototype={
 $0(){return A.pc(A.ht("https://github.com/bilgehandk",0,null),B.dJ)},
 $S:0}
@@ -49308,12 +49308,12 @@ case 5:case 3:return A.y(null,r)}})
 return A.z($async$$0,r)},
 $S:19}
 A.xU.prototype={
-Y(a){var s=null,r=t.p,q=A.aaH(A.b([A.pV(s,s,s,s,B.Mi,s,s,new A.aeq(this),s,s,s,s)],r),B.Ey,s),p=new A.ab_()
-p.a="assets/CV.pdf"
-return A.atT(q,A.ff(A.b([A.nI(new A.IK(p,s)),new A.bJ(B.dD,new A.RT(new A.aer(this),s,s,s,s,s,s,!1,s,!0,s,B.Ey,s),s)],r),B.R,s,B.ak,B.T))},
+Y(a){var s=null,r=t.p,q=A.aaH(A.b([A.pV(s,s,s,s,B.Mi,s,s,new A.aeq(this),s,s,s,s)],r),B.Ew,s),p=new A.ab_()
+p.a="assets/Bilgehan_Demirkaya-CV.pdf"
+return A.atT(q,A.ff(A.b([A.nI(new A.IK(p,s)),new A.bJ(B.dD,new A.RT(new A.aer(this),s,s,s,s,s,s,!1,s,!0,s,B.Ew,s),s)],r),B.R,s,B.ak,B.T))},
 a_M(){var s=document.createElement("a")
-s.href="assets/CV.pdf"
-s.download="Bilgehan_Demirkaya_CV.pdf"
+s.href="../assets/Bilgehan_Demirkaya-CV.pdf"
+s.download="Bilgehan_Demirkaya-CV.pdf"
 s.click()}}
 A.aeq.prototype={
 $0(){return this.a.a_M()},
@@ -151459,14 +151459,14 @@ B.Es=new A.et("Feel free to explore my GitHub for a closer look at my projects o
 B.Et=new A.et("I thrive at the intersection of creativity and technology. From developing games to designing immersive user experiences, my goal is to push boundaries and deliver impactful solutions that resonate with users.",null,B.ff,null,null,null,null,null,null)
 B.Eu=new A.et("My professional experience spans internships at companies like Zynga Inc., MobileAction, Bar\u0131\u015f Kaplan Games and Easy Clap Games, where I honed my skills in game development, full-stack development, and software engineering. I\u2019ve worked on various projects, from integrating localization systems into games like 101 Okey Plus, to creating mobile games with innovative mechanics.",null,B.ff,null,null,null,null,null,null)
 B.Ev=new A.et("Hello! I'm Bilgehan Demirkaya, a passionate Mobile Game Engineer with a strong foundation in Information Systems and Technologies, currently completing my education at Bilkent University. Over the years, I've developed expertise in Unity, C#, and game monetization platforms such as AdMob and Unity Ads.",null,B.ff,null,null,null,null,null,null)
-B.Ew=new A.et("Skills & Expertise",null,B.kn,null,null,null,null,null,null)
+B.Ew=new A.et("Download Resume",null,null,null,null,null,null,null,null)
+B.Ex=new A.et("Skills & Expertise",null,B.kn,null,null,null,null,null,null)
 B.a1o=new A.et("My Info",null,null,null,null,null,null,null,null)
-B.Ex=new A.et("My Journey",null,B.kn,null,null,null,null,null,null)
+B.Ey=new A.et("My Journey",null,B.kn,null,null,null,null,null,null)
 B.a1p=new A.et("My Portfolio",null,null,null,null,null,null,null,null)
 B.a1q=new A.et("INSERT",null,null,null,null,null,null,null,null)
 B.a1r=new A.et("SAVE",null,null,null,null,null,null,null,null)
 B.a1s=new A.et("OK",null,B.Em,null,null,null,null,null,null)
-B.Ey=new A.et("Download CV",null,null,null,null,null,null,null,null)
 B.a1t=new A.et("Welcome Bilgehan Demirkaya Portfolio Website",null,null,null,null,null,null,null,null)
 B.a4Z=new A.ayY(0,"system")
 B.SM=new A.e(0.056,0.024)
